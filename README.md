@@ -6,9 +6,6 @@
 <a href="https://instagram.com/_ozan.ylmz" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ozan.ylmz" height="30" width="40" />
 </a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzBlSNWpTDgthDXPtJnBqLNjfhbMQxgfpLRlnspkrqSZMNGhxDCPctGCdhCBldbvMQbwrQf" target="blank">
-  <img align="center" src="https://w7.pngwing.com/pngs/608/931/png-transparent-gmail-new-logo-icon.png" alt="ozan yılmaz" height="30" width="40" />
-</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
