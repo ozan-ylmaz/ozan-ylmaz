@@ -3,7 +3,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_ozan.ylmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ozan.ylmaz" height="30" width="40" /></a>
+<a href="https://instagram.com/_ozan.ylmz" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ozan.ylmz" height="30" width="40" />
+</a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzBlSNWpTDgthDXPtJnBqLNjfhbMQxgfpLRlnspkrqSZMNGhxDCPctGCdhCBldbvMQbwrQf" target="blank">
+  <img align="center" src="https://w7.pngwing.com/pngs/758/665/png-transparent-new-logo-gmail-google-new-logos-icon.png" alt="ozan yılmaz" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
